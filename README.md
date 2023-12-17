@@ -1,0 +1,1 @@
+Command Line Anagram Finder. Input word to find anagras of, file path, and a data structure to use (BST, AVL Tree, Hashmap) for storage of various anagrams. Using the given data structure, the program will populate an instance of said data structure with all entries in the given txt file, and anagrams of the given word are then foud and printed out in lexicographic order.
